@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @bakeyed
-- 👀 I’m interested in web and game development
-- 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Trying cool stuff out 
 
 <!---
 bakeyed/bakeyed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
